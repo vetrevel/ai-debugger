@@ -1,0 +1,602 @@
+[
+  {
+    "buggy_code": "print(\"Hello 0\"",
+    "fixed_code": "print(\"Hello 0\")",
+    "explanation": "Missing closing parenthesis."
+  },
+  {
+    "buggy_code": "print(\"Hello 1\"",
+    "fixed_code": "print(\"Hello 1\")",
+    "explanation": "Missing closing parenthesis."
+  },
+  {
+    "buggy_code": "print(\"Hello 2\"",
+    "fixed_code": "print(\"Hello 2\")",
+    "explanation": "Missing closing parenthesis."
+  },
+  {
+    "buggy_code": "print(\"Hello 3\"",
+    "fixed_code": "print(\"Hello 3\")",
+    "explanation": "Missing closing parenthesis."
+  },
+  {
+    "buggy_code": "print(\"Hello 4\"",
+    "fixed_code": "print(\"Hello 4\")",
+    "explanation": "Missing closing parenthesis."
+  },
+  {
+    "buggy_code": "print(\"Hello 5\"",
+    "fixed_code": "print(\"Hello 5\")",
+    "explanation": "Missing closing parenthesis."
+  },
+  {
+    "buggy_code": "print(\"Hello 6\"",
+    "fixed_code": "print(\"Hello 6\")",
+    "explanation": "Missing closing parenthesis."
+  },
+  {
+    "buggy_code": "print(\"Hello 7\"",
+    "fixed_code": "print(\"Hello 7\")",
+    "explanation": "Missing closing parenthesis."
+  },
+  {
+    "buggy_code": "print(\"Hello 8\"",
+    "fixed_code": "print(\"Hello 8\")",
+    "explanation": "Missing closing parenthesis."
+  },
+  {
+    "buggy_code": "print(\"Hello 9\"",
+    "fixed_code": "print(\"Hello 9\")",
+    "explanation": "Missing closing parenthesis."
+  },
+  {
+    "buggy_code": "print(\"Hello 10\"",
+    "fixed_code": "print(\"Hello 10\")",
+    "explanation": "Missing closing parenthesis."
+  },
+  {
+    "buggy_code": "print(\"Hello 11\"",
+    "fixed_code": "print(\"Hello 11\")",
+    "explanation": "Missing closing parenthesis."
+  },
+  {
+    "buggy_code": "print(\"Hello 12\"",
+    "fixed_code": "print(\"Hello 12\")",
+    "explanation": "Missing closing parenthesis."
+  },
+  {
+    "buggy_code": "print(\"Hello 13\"",
+    "fixed_code": "print(\"Hello 13\")",
+    "explanation": "Missing closing parenthesis."
+  },
+  {
+    "buggy_code": "print(\"Hello 14\"",
+    "fixed_code": "print(\"Hello 14\")",
+    "explanation": "Missing closing parenthesis."
+  },
+  {
+    "buggy_code": "print(\"Hello 15\"",
+    "fixed_code": "print(\"Hello 15\")",
+    "explanation": "Missing closing parenthesis."
+  },
+  {
+    "buggy_code": "print(\"Hello 16\"",
+    "fixed_code": "print(\"Hello 16\")",
+    "explanation": "Missing closing parenthesis."
+  },
+  {
+    "buggy_code": "print(\"Hello 17\"",
+    "fixed_code": "print(\"Hello 17\")",
+    "explanation": "Missing closing parenthesis."
+  },
+  {
+    "buggy_code": "print(\"Hello 18\"",
+    "fixed_code": "print(\"Hello 18\")",
+    "explanation": "Missing closing parenthesis."
+  },
+  {
+    "buggy_code": "print(\"Hello 19\"",
+    "fixed_code": "print(\"Hello 19\")",
+    "explanation": "Missing closing parenthesis."
+  },
+  {
+    "buggy_code": "if x == 0\n    print(x)",
+    "fixed_code": "if x == 0:\n    print(x)",
+    "explanation": "Missing colon in if statement."
+  },
+  {
+    "buggy_code": "if x == 1\n    print(x)",
+    "fixed_code": "if x == 1:\n    print(x)",
+    "explanation": "Missing colon in if statement."
+  },
+  {
+    "buggy_code": "if x == 2\n    print(x)",
+    "fixed_code": "if x == 2:\n    print(x)",
+    "explanation": "Missing colon in if statement."
+  },
+  {
+    "buggy_code": "if x == 3\n    print(x)",
+    "fixed_code": "if x == 3:\n    print(x)",
+    "explanation": "Missing colon in if statement."
+  },
+  {
+    "buggy_code": "if x == 4\n    print(x)",
+    "fixed_code": "if x == 4:\n    print(x)",
+    "explanation": "Missing colon in if statement."
+  },
+  {
+    "buggy_code": "if x == 5\n    print(x)",
+    "fixed_code": "if x == 5:\n    print(x)",
+    "explanation": "Missing colon in if statement."
+  },
+  {
+    "buggy_code": "if x == 6\n    print(x)",
+    "fixed_code": "if x == 6:\n    print(x)",
+    "explanation": "Missing colon in if statement."
+  },
+  {
+    "buggy_code": "if x == 7\n    print(x)",
+    "fixed_code": "if x == 7:\n    print(x)",
+    "explanation": "Missing colon in if statement."
+  },
+  {
+    "buggy_code": "if x == 8\n    print(x)",
+    "fixed_code": "if x == 8:\n    print(x)",
+    "explanation": "Missing colon in if statement."
+  },
+  {
+    "buggy_code": "if x == 9\n    print(x)",
+    "fixed_code": "if x == 9:\n    print(x)",
+    "explanation": "Missing colon in if statement."
+  },
+  {
+    "buggy_code": "if x == 10\n    print(x)",
+    "fixed_code": "if x == 10:\n    print(x)",
+    "explanation": "Missing colon in if statement."
+  },
+  {
+    "buggy_code": "if x == 11\n    print(x)",
+    "fixed_code": "if x == 11:\n    print(x)",
+    "explanation": "Missing colon in if statement."
+  },
+  {
+    "buggy_code": "if x == 12\n    print(x)",
+    "fixed_code": "if x == 12:\n    print(x)",
+    "explanation": "Missing colon in if statement."
+  },
+  {
+    "buggy_code": "if x == 13\n    print(x)",
+    "fixed_code": "if x == 13:\n    print(x)",
+    "explanation": "Missing colon in if statement."
+  },
+  {
+    "buggy_code": "if x == 14\n    print(x)",
+    "fixed_code": "if x == 14:\n    print(x)",
+    "explanation": "Missing colon in if statement."
+  },
+  {
+    "buggy_code": "if x == 15\n    print(x)",
+    "fixed_code": "if x == 15:\n    print(x)",
+    "explanation": "Missing colon in if statement."
+  },
+  {
+    "buggy_code": "if x == 16\n    print(x)",
+    "fixed_code": "if x == 16:\n    print(x)",
+    "explanation": "Missing colon in if statement."
+  },
+  {
+    "buggy_code": "if x == 17\n    print(x)",
+    "fixed_code": "if x == 17:\n    print(x)",
+    "explanation": "Missing colon in if statement."
+  },
+  {
+    "buggy_code": "if x == 18\n    print(x)",
+    "fixed_code": "if x == 18:\n    print(x)",
+    "explanation": "Missing colon in if statement."
+  },
+  {
+    "buggy_code": "if x == 19\n    print(x)",
+    "fixed_code": "if x == 19:\n    print(x)",
+    "explanation": "Missing colon in if statement."
+  },
+  {
+    "buggy_code": "for i in range(1)\n    print(i)",
+    "fixed_code": "for i in range(1):\n    print(i)",
+    "explanation": "Missing colon in for loop."
+  },
+  {
+    "buggy_code": "for i in range(2)\n    print(i)",
+    "fixed_code": "for i in range(2):\n    print(i)",
+    "explanation": "Missing colon in for loop."
+  },
+  {
+    "buggy_code": "for i in range(3)\n    print(i)",
+    "fixed_code": "for i in range(3):\n    print(i)",
+    "explanation": "Missing colon in for loop."
+  },
+  {
+    "buggy_code": "for i in range(4)\n    print(i)",
+    "fixed_code": "for i in range(4):\n    print(i)",
+    "explanation": "Missing colon in for loop."
+  },
+  {
+    "buggy_code": "for i in range(5)\n    print(i)",
+    "fixed_code": "for i in range(5):\n    print(i)",
+    "explanation": "Missing colon in for loop."
+  },
+  {
+    "buggy_code": "for i in range(6)\n    print(i)",
+    "fixed_code": "for i in range(6):\n    print(i)",
+    "explanation": "Missing colon in for loop."
+  },
+  {
+    "buggy_code": "for i in range(7)\n    print(i)",
+    "fixed_code": "for i in range(7):\n    print(i)",
+    "explanation": "Missing colon in for loop."
+  },
+  {
+    "buggy_code": "for i in range(8)\n    print(i)",
+    "fixed_code": "for i in range(8):\n    print(i)",
+    "explanation": "Missing colon in for loop."
+  },
+  {
+    "buggy_code": "for i in range(9)\n    print(i)",
+    "fixed_code": "for i in range(9):\n    print(i)",
+    "explanation": "Missing colon in for loop."
+  },
+  {
+    "buggy_code": "for i in range(10)\n    print(i)",
+    "fixed_code": "for i in range(10):\n    print(i)",
+    "explanation": "Missing colon in for loop."
+  },
+  {
+    "buggy_code": "for i in range(11)\n    print(i)",
+    "fixed_code": "for i in range(11):\n    print(i)",
+    "explanation": "Missing colon in for loop."
+  },
+  {
+    "buggy_code": "for i in range(12)\n    print(i)",
+    "fixed_code": "for i in range(12):\n    print(i)",
+    "explanation": "Missing colon in for loop."
+  },
+  {
+    "buggy_code": "for i in range(13)\n    print(i)",
+    "fixed_code": "for i in range(13):\n    print(i)",
+    "explanation": "Missing colon in for loop."
+  },
+  {
+    "buggy_code": "for i in range(14)\n    print(i)",
+    "fixed_code": "for i in range(14):\n    print(i)",
+    "explanation": "Missing colon in for loop."
+  },
+  {
+    "buggy_code": "for i in range(15)\n    print(i)",
+    "fixed_code": "for i in range(15):\n    print(i)",
+    "explanation": "Missing colon in for loop."
+  },
+  {
+    "buggy_code": "for i in range(16)\n    print(i)",
+    "fixed_code": "for i in range(16):\n    print(i)",
+    "explanation": "Missing colon in for loop."
+  },
+  {
+    "buggy_code": "for i in range(17)\n    print(i)",
+    "fixed_code": "for i in range(17):\n    print(i)",
+    "explanation": "Missing colon in for loop."
+  },
+  {
+    "buggy_code": "for i in range(18)\n    print(i)",
+    "fixed_code": "for i in range(18):\n    print(i)",
+    "explanation": "Missing colon in for loop."
+  },
+  {
+    "buggy_code": "for i in range(19)\n    print(i)",
+    "fixed_code": "for i in range(19):\n    print(i)",
+    "explanation": "Missing colon in for loop."
+  },
+  {
+    "buggy_code": "for i in range(20)\n    print(i)",
+    "fixed_code": "for i in range(20):\n    print(i)",
+    "explanation": "Missing colon in for loop."
+  },
+  {
+    "buggy_code": "result = 10 / 0",
+    "fixed_code": "result = 10 / 1",
+    "explanation": "Division by zero causes runtime errors."
+  },
+  {
+    "buggy_code": "result = 11 / 0",
+    "fixed_code": "result = 11 / 1",
+    "explanation": "Division by zero causes runtime errors."
+  },
+  {
+    "buggy_code": "result = 12 / 0",
+    "fixed_code": "result = 12 / 1",
+    "explanation": "Division by zero causes runtime errors."
+  },
+  {
+    "buggy_code": "result = 13 / 0",
+    "fixed_code": "result = 13 / 1",
+    "explanation": "Division by zero causes runtime errors."
+  },
+  {
+    "buggy_code": "result = 14 / 0",
+    "fixed_code": "result = 14 / 1",
+    "explanation": "Division by zero causes runtime errors."
+  },
+  {
+    "buggy_code": "result = 15 / 0",
+    "fixed_code": "result = 15 / 1",
+    "explanation": "Division by zero causes runtime errors."
+  },
+  {
+    "buggy_code": "result = 16 / 0",
+    "fixed_code": "result = 16 / 1",
+    "explanation": "Division by zero causes runtime errors."
+  },
+  {
+    "buggy_code": "result = 17 / 0",
+    "fixed_code": "result = 17 / 1",
+    "explanation": "Division by zero causes runtime errors."
+  },
+  {
+    "buggy_code": "result = 18 / 0",
+    "fixed_code": "result = 18 / 1",
+    "explanation": "Division by zero causes runtime errors."
+  },
+  {
+    "buggy_code": "result = 19 / 0",
+    "fixed_code": "result = 19 / 1",
+    "explanation": "Division by zero causes runtime errors."
+  },
+  {
+    "buggy_code": "result = 20 / 0",
+    "fixed_code": "result = 20 / 1",
+    "explanation": "Division by zero causes runtime errors."
+  },
+  {
+    "buggy_code": "result = 21 / 0",
+    "fixed_code": "result = 21 / 1",
+    "explanation": "Division by zero causes runtime errors."
+  },
+  {
+    "buggy_code": "result = 22 / 0",
+    "fixed_code": "result = 22 / 1",
+    "explanation": "Division by zero causes runtime errors."
+  },
+  {
+    "buggy_code": "result = 23 / 0",
+    "fixed_code": "result = 23 / 1",
+    "explanation": "Division by zero causes runtime errors."
+  },
+  {
+    "buggy_code": "result = 24 / 0",
+    "fixed_code": "result = 24 / 1",
+    "explanation": "Division by zero causes runtime errors."
+  },
+  {
+    "buggy_code": "result = 25 / 0",
+    "fixed_code": "result = 25 / 1",
+    "explanation": "Division by zero causes runtime errors."
+  },
+  {
+    "buggy_code": "result = 26 / 0",
+    "fixed_code": "result = 26 / 1",
+    "explanation": "Division by zero causes runtime errors."
+  },
+  {
+    "buggy_code": "result = 27 / 0",
+    "fixed_code": "result = 27 / 1",
+    "explanation": "Division by zero causes runtime errors."
+  },
+  {
+    "buggy_code": "result = 28 / 0",
+    "fixed_code": "result = 28 / 1",
+    "explanation": "Division by zero causes runtime errors."
+  },
+  {
+    "buggy_code": "result = 29 / 0",
+    "fixed_code": "result = 29 / 1",
+    "explanation": "Division by zero causes runtime errors."
+  },
+  {
+    "buggy_code": "print(user_name_0)",
+    "fixed_code": "user_name_0 = \"John\"\nprint(user_name_0)",
+    "explanation": "Variable used before definition."
+  },
+  {
+    "buggy_code": "print(user_name_1)",
+    "fixed_code": "user_name_1 = \"John\"\nprint(user_name_1)",
+    "explanation": "Variable used before definition."
+  },
+  {
+    "buggy_code": "print(user_name_2)",
+    "fixed_code": "user_name_2 = \"John\"\nprint(user_name_2)",
+    "explanation": "Variable used before definition."
+  },
+  {
+    "buggy_code": "print(user_name_3)",
+    "fixed_code": "user_name_3 = \"John\"\nprint(user_name_3)",
+    "explanation": "Variable used before definition."
+  },
+  {
+    "buggy_code": "print(user_name_4)",
+    "fixed_code": "user_name_4 = \"John\"\nprint(user_name_4)",
+    "explanation": "Variable used before definition."
+  },
+  {
+    "buggy_code": "print(user_name_5)",
+    "fixed_code": "user_name_5 = \"John\"\nprint(user_name_5)",
+    "explanation": "Variable used before definition."
+  },
+  {
+    "buggy_code": "print(user_name_6)",
+    "fixed_code": "user_name_6 = \"John\"\nprint(user_name_6)",
+    "explanation": "Variable used before definition."
+  },
+  {
+    "buggy_code": "print(user_name_7)",
+    "fixed_code": "user_name_7 = \"John\"\nprint(user_name_7)",
+    "explanation": "Variable used before definition."
+  },
+  {
+    "buggy_code": "print(user_name_8)",
+    "fixed_code": "user_name_8 = \"John\"\nprint(user_name_8)",
+    "explanation": "Variable used before definition."
+  },
+  {
+    "buggy_code": "print(user_name_9)",
+    "fixed_code": "user_name_9 = \"John\"\nprint(user_name_9)",
+    "explanation": "Variable used before definition."
+  },
+  {
+    "buggy_code": "print(user_name_10)",
+    "fixed_code": "user_name_10 = \"John\"\nprint(user_name_10)",
+    "explanation": "Variable used before definition."
+  },
+  {
+    "buggy_code": "print(user_name_11)",
+    "fixed_code": "user_name_11 = \"John\"\nprint(user_name_11)",
+    "explanation": "Variable used before definition."
+  },
+  {
+    "buggy_code": "print(user_name_12)",
+    "fixed_code": "user_name_12 = \"John\"\nprint(user_name_12)",
+    "explanation": "Variable used before definition."
+  },
+  {
+    "buggy_code": "print(user_name_13)",
+    "fixed_code": "user_name_13 = \"John\"\nprint(user_name_13)",
+    "explanation": "Variable used before definition."
+  },
+  {
+    "buggy_code": "print(user_name_14)",
+    "fixed_code": "user_name_14 = \"John\"\nprint(user_name_14)",
+    "explanation": "Variable used before definition."
+  },
+  {
+    "buggy_code": "print(user_name_15)",
+    "fixed_code": "user_name_15 = \"John\"\nprint(user_name_15)",
+    "explanation": "Variable used before definition."
+  },
+  {
+    "buggy_code": "print(user_name_16)",
+    "fixed_code": "user_name_16 = \"John\"\nprint(user_name_16)",
+    "explanation": "Variable used before definition."
+  },
+  {
+    "buggy_code": "print(user_name_17)",
+    "fixed_code": "user_name_17 = \"John\"\nprint(user_name_17)",
+    "explanation": "Variable used before definition."
+  },
+  {
+    "buggy_code": "print(user_name_18)",
+    "fixed_code": "user_name_18 = \"John\"\nprint(user_name_18)",
+    "explanation": "Variable used before definition."
+  },
+  {
+    "buggy_code": "print(user_name_19)",
+    "fixed_code": "user_name_19 = \"John\"\nprint(user_name_19)",
+    "explanation": "Variable used before definition."
+  },
+  {
+    "buggy_code": "\"0\" + 0",
+    "fixed_code": "str(0) + \"0\"",
+    "explanation": "Cannot concatenate string and integer directly."
+  },
+  {
+    "buggy_code": "\"1\" + 1",
+    "fixed_code": "str(1) + \"1\"",
+    "explanation": "Cannot concatenate string and integer directly."
+  },
+  {
+    "buggy_code": "\"2\" + 2",
+    "fixed_code": "str(2) + \"2\"",
+    "explanation": "Cannot concatenate string and integer directly."
+  },
+  {
+    "buggy_code": "\"3\" + 3",
+    "fixed_code": "str(3) + \"3\"",
+    "explanation": "Cannot concatenate string and integer directly."
+  },
+  {
+    "buggy_code": "\"4\" + 4",
+    "fixed_code": "str(4) + \"4\"",
+    "explanation": "Cannot concatenate string and integer directly."
+  },
+  {
+    "buggy_code": "\"5\" + 5",
+    "fixed_code": "str(5) + \"5\"",
+    "explanation": "Cannot concatenate string and integer directly."
+  },
+  {
+    "buggy_code": "\"6\" + 6",
+    "fixed_code": "str(6) + \"6\"",
+    "explanation": "Cannot concatenate string and integer directly."
+  },
+  {
+    "buggy_code": "\"7\" + 7",
+    "fixed_code": "str(7) + \"7\"",
+    "explanation": "Cannot concatenate string and integer directly."
+  },
+  {
+    "buggy_code": "\"8\" + 8",
+    "fixed_code": "str(8) + \"8\"",
+    "explanation": "Cannot concatenate string and integer directly."
+  },
+  {
+    "buggy_code": "\"9\" + 9",
+    "fixed_code": "str(9) + \"9\"",
+    "explanation": "Cannot concatenate string and integer directly."
+  },
+  {
+    "buggy_code": "\"10\" + 10",
+    "fixed_code": "str(10) + \"10\"",
+    "explanation": "Cannot concatenate string and integer directly."
+  },
+  {
+    "buggy_code": "\"11\" + 11",
+    "fixed_code": "str(11) + \"11\"",
+    "explanation": "Cannot concatenate string and integer directly."
+  },
+  {
+    "buggy_code": "\"12\" + 12",
+    "fixed_code": "str(12) + \"12\"",
+    "explanation": "Cannot concatenate string and integer directly."
+  },
+  {
+    "buggy_code": "\"13\" + 13",
+    "fixed_code": "str(13) + \"13\"",
+    "explanation": "Cannot concatenate string and integer directly."
+  },
+  {
+    "buggy_code": "\"14\" + 14",
+    "fixed_code": "str(14) + \"14\"",
+    "explanation": "Cannot concatenate string and integer directly."
+  },
+  {
+    "buggy_code": "\"15\" + 15",
+    "fixed_code": "str(15) + \"15\"",
+    "explanation": "Cannot concatenate string and integer directly."
+  },
+  {
+    "buggy_code": "\"16\" + 16",
+    "fixed_code": "str(16) + \"16\"",
+    "explanation": "Cannot concatenate string and integer directly."
+  },
+  {
+    "buggy_code": "\"17\" + 17",
+    "fixed_code": "str(17) + \"17\"",
+    "explanation": "Cannot concatenate string and integer directly."
+  },
+  {
+    "buggy_code": "\"18\" + 18",
+    "fixed_code": "str(18) + \"18\"",
+    "explanation": "Cannot concatenate string and integer directly."
+  },
+  {
+    "buggy_code": "\"19\" + 19",
+    "fixed_code": "str(19) + \"19\"",
+    "explanation": "Cannot concatenate string and integer directly."
+  }
+]
