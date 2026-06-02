@@ -18,7 +18,7 @@ function App() {
       setResult("Analyzing...");
 
       const response = await axios.post(
-        "http://localhost:8000/debug",
+        "https://ai-debugger-kdoe.onrender.com/debug",
         {
           code: code,
         }
@@ -38,7 +38,7 @@ function App() {
         );
       } else if (error.request) {
         setResult(
-          "Cannot connect to backend. Make sure FastAPI is running on port 8000."
+          "Cannot connect to backend. Check if Render backend is running."
         );
       } else {
         setResult(error.message);
